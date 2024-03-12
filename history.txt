@@ -1,0 +1,16 @@
+  253  git branch
+  254  git branch milkshake-flavours\n
+  255  git branch
+  256  git checkout milkshae-flavours
+  257  git checkout milkshake-flavours
+  258  git branch
+  259  nano milkshakes.md\n
+  260  git status
+  261  git commit -m "added initial flavours"\n
+  262  git add milkshakes.md\n
+  263  git commit -m "added initial flavours"\n
+  264  git log
+  265  git checkout master
+  266  git branch history\ngit checkout history\n
+  267  git branch
+  268  git log
